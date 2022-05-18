@@ -2,7 +2,7 @@
     
 Пример: "Номер вашей карты: **********1245" */
 
-let numberOfCard = prompt("Ведите номер вашей карты!", ("14 цифр"));
-let numberOfCard1 = numberOfCard.slice(10, 14);
+// let numberOfCard = prompt("Ведите номер вашей карты!", ("14 цифр"));
+// let numberOfCard1 = numberOfCard.slice(10, 14);
 
-document.write(`Номер вашей карты: **********${numberOfCard1}`);
+// document.write(`Номер вашей карты: **********${numberOfCard1}`);
