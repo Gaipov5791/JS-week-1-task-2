@@ -1,5 +1,7 @@
 // Нужно заменить все @ на '!'.
 
-let string = "ddd@bbb@ccc";
+// let string = "ddd@bbb@ccc";
 
-console.log(string);
+// Воспользуемся глобальным поиском 'g' с помощью регулярного    		                                      // выражения. 
+
+// console.log(string.replace(/@/g, "!")); 
